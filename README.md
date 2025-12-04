@@ -1,1 +1,1 @@
-# javascript-little-prpojects
+# javascript-little-projects
