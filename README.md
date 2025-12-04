@@ -1,1 +1,0 @@
-# javascript-little-projects
